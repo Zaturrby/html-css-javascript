@@ -1,17 +1,11 @@
 curator: Charlotte
 goal: Use Git
 checkpoints:
-  - task: task title
-    url: 'url'
-  - task: task title
-    url: 'url'
-  - task: task title
-    url: 'url'
-  - task: task title
-    url: 'url'
-  - task: task title
-    url: 'url'
-  - task: task title
-    url: 'url'
-  - task: task title
-    url: 'url'
+  - task: Git down your basics
+    url: 'https://git-scm.com/book/en/v2/Getting-Started-Git-Basics'
+  - task: Know the difference between Git and GitHub
+    url: 'https://www.codefellows.org/blog/git-and-github-what-s-the-difference/'
+  - task: Use the command line
+    url: '(Use_the_command_line.yaml)'
+  - task: Learn Git 
+    url: 'https://www.codecademy.com/en/courses/learn-git'
