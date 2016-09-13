@@ -1,0 +1,11 @@
+curator: Charlotte
+goal: Choose a Code Editor
+checkpoints:
+  - task: Discover what code editors do
+    url: 'https://en.wikipedia.org/wiki/Source_code_editor'
+  - task: Read about different editors 
+    url: 'https://codingsec.net/2016/06/7-best-text-editors-use-2016/'
+  - task: Learn the pros and cons of different editors 
+    url: 'http://blog.livecoding.tv/2016/05/23/10-best-text-editors-programming-2016/'
+  - task: Download Atom
+    url: 'https://atom.io/'

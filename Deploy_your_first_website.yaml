@@ -1,0 +1,11 @@
+curator: Charlotte
+goal: Put your first website online
+checkpoints:
+  - task: Create a GitHub account
+    url: 'https://github.com/'
+  - task: Use git 
+    url:  '(Use_git.yaml)'
+  - task: Publish with GitHub pages
+    url: 'https://www.thinkful.com/learn/a-guide-to-using-github-pages/'
+  - task: Optional: Use a custom domain with GitHub pages
+    url: 'http://blog.teamtreehouse.com/using-github-pages-to-host-your-website'

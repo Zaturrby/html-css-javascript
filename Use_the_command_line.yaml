@@ -1,0 +1,11 @@
+curator: Charlotte
+goal: Use the command line
+checkpoints:
+  - task: Learn about the command line
+    url: 'https://www.davidbaumgold.com/tutorials/command-line/#what-is-the-command-line'
+  - task: Find your command line
+    url: 'https://www.davidbaumgold.com/tutorials/command-line/#finding-the-command-line'
+  - task: Learn the command line
+    url: 'https://www.codecademy.com/learn/learn-the-command-line'
+  - task: Keep a list of the commands on hand
+    url: 'https://www.codecademy.com/articles/command-line-commands'

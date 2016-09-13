@@ -1,6 +1,8 @@
 curator: Charlotte
 goal: Master the basics of HTML
 checkpoints:
+  - task: Learn HTML speak 
+    url: 'https://en.wikipedia.org/wiki/HTML'
   - task: Create your first HTML file
     url: 'http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-html--webdesign-10144'
   - task: Code your first HTML challenges
