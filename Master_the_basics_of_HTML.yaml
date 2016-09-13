@@ -1,0 +1,13 @@
+curator: Charlotte
+goal: Master the basics of HTML
+checkpoints:
+  - task: Create your first HTML file
+    url: 'http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-html--webdesign-10144'
+  - task: Code your first HTML challenges
+    url: 'https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro'
+  - task: Dive into HTML structures
+    url: 'https://www.codecademy.com/learn/web'
+  - task: Repeat your HTML basics
+    url: 'http://campus.codeschool.com/courses/front-end-foundations/contents'
+  - task: Get started with frontend development
+    url: 'http://frontend.codeschool.com/'
