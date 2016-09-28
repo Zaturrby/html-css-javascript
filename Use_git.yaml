@@ -2,10 +2,10 @@ curator: Charlotte
 goal: Use Git
 checkpoints:
   - task: Git down your basics
-    url: 'https://git-scm.com/book/en/v2/Getting-Started-Git-Basics'
+    resource-url: 'https://git-scm.com/book/en/v2/Getting-Started-Git-Basics'
   - task: Know the difference between Git and GitHub
-    url: 'https://www.codefellows.org/blog/git-and-github-what-s-the-difference/'
+    resource-url: 'https://www.codefellows.org/blog/git-and-github-what-s-the-difference/'
   - task: Use the command line
-    url: '(Use_the_command_line.yaml)'
+    resource-url: '(Use_the_command_line.yaml)'
   - task: Learn Git 
-    url: 'https://www.codecademy.com/en/courses/learn-git'
+    resource-url: 'https://www.codecademy.com/en/courses/learn-git'
