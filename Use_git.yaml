@@ -1,11 +1,13 @@
 curator: Charlotte
 goal: Use Git
 checkpoints:
+  - task: Control your versions
+    resource-url: 'https://www.atlassian.com/git/tutorials/what-is-version-control'
   - task: Git down your basics
-    resource-url: 'https://git-scm.com/book/en/v2/Getting-Started-Git-Basics'
+    resource-url: 'https://backlogtool.com/git-guide/en/intro/intro1_1.html'
   - task: Know the difference between Git and GitHub
     resource-url: 'https://www.codefellows.org/blog/git-and-github-what-s-the-difference/'
-  - task: Use the command line
-    resource-url: '(Use_the_command_line.yaml)'
-  - task: Learn Git 
+  - task: Practice
     resource-url: 'https://www.codecademy.com/en/courses/learn-git'
+  - task: Get an overview
+    resource-url: 'http://rogerdudler.github.io/git-guide/'
