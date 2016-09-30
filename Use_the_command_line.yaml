@@ -1,11 +1,13 @@
 curator: Charlotte
 goal: Use the command line
 checkpoints:
-  - task: Learn about the command line
-    resource-url: 'https://www.davidbaumgold.com/tutorials/command-line/#what-is-the-command-line'
-  - task: Find your command line
+  - task: Find your terminal
     resource-url: 'https://www.davidbaumgold.com/tutorials/command-line/#finding-the-command-line'
-  - task: Learn the command line
+  - task: Overcome your fear of the command line
+    resource-url: 'https://zellwk.com/blog/fear-of-command-line'
+  - task: Learn basic commands
     resource-url: 'https://www.codecademy.com/learn/learn-the-command-line'
   - task: Keep a list of the commands on hand
     resource-url: 'https://www.codecademy.com/articles/command-line-commands'
+  - task: Have fun with Cows
+    resource-url: 'http://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/'
