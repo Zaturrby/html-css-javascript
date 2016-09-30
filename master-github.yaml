@@ -1,0 +1,7 @@
+curator: Yeehaa
+goal: Master Github
+checkpoints:
+  - task: Know the difference between Git and GitHub
+    resource-url: 'https://www.codefellows.org/blog/git-and-github-what-s-the-difference/'
+  - task: Push, pull and pull requests
+    resource-url: 'https://guides.github.com/activities/hello-world/'
