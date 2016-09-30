@@ -2,14 +2,14 @@ curator: Charlotte
 goal: Master the basics of HTML
 checkpoints:
   - task: Learn HTML speak 
-    resource-url: 'https://en.wikipedia.org/wiki/HTML'
-  - task: Create your first HTML file
+    resource-url: 'https://developer.mozilla.org/en/docs/Web/Guide/HTML/Introduction'
+  - task: Create a HTML Document
     resource-url: 'http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-html--webdesign-10144'
-  - task: Code your first HTML challenges
+  - task: Do it Again
     resource-url: 'https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro'
-  - task: Dive into HTML structures
-    resource-url: 'https://www.codecademy.com/learn/web'
-  - task: Repeat your HTML basics
-    resource-url: 'http://campus.codeschool.com/courses/front-end-foundations/contents'
-  - task: Get started with frontend development
-    resource-url: 'http://frontend.codeschool.com/'
+  - task: Deep Dive into HTML structures
+    resource-url: 'http://learn.shayhowe.com/html-css/getting-to-know-html/'
+  - task: Make it Semantic
+    resource-url: 'https://boagworld.com/dev/semantic-code-what-why-how/'
+  - task: Keep it Semantic
+    resource-url: 'https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages'
