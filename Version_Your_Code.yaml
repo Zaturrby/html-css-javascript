@@ -1,5 +1,5 @@
 curator: Charlotte
-goal: Use Git
+goal: Version Your Code
 checkpoints:
   - task: Control your versions
     resource-url: 'https://www.atlassian.com/git/tutorials/what-is-version-control'
